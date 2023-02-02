@@ -1,0 +1,40 @@
+p
+    {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        color: black;
+        font-family:cursive;
+    }
+body
+    {
+        background-color: rgb(43, 43, 77);
+    }
+a 
+    {
+        text-decoration: none;
+    }
+footer
+    {
+        background-color: #333;
+        opacity: 80%;
+    }
+div.paragraph
+    {
+        width:70%;
+        height: max-content;
+        border-style: none;
+        background-color: lightblue;
+        opacity: 80%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+div.blank
+    {
+        width:100%; 
+        height: 2000px;
+        border-style: none;
+    }
